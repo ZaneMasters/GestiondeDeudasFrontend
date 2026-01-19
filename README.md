@@ -40,8 +40,8 @@ src/
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone https://github.com/tu-usuario/debt-manager-frontend.git
-    cd debt-manager-frontend
+    git clone https://github.com/ZaneMasters/GestiondeDeudasFrontend.git
+    cd GestiondeDeudasFrontend
     ```
 
 2.  **Instalar dependencias**
